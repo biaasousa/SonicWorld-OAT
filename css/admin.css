@@ -1,0 +1,77 @@
+.admin{
+    max-width:1100px;
+    margin:auto;
+}
+
+.top-admin{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:30px;
+}
+
+.search{
+    width:350px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background: #102746;
+}
+
+table th{
+    background: #0057D8;
+    padding:15px;
+}
+
+table td{
+    padding:15px;
+    text-align:center;
+    border-top:1px solid rgba(255,255,255,.1);
+}
+
+.btn-edit{
+    background: #FFD700;
+    border:none;
+    padding:8px 16px;
+    border-radius:8px;
+}
+
+.btn-delete{
+    background: #d62828;
+    color:white;
+    border:none;
+    padding:8px 16px;
+    border-radius:8px;
+}
+
+.form-admin{
+    max-width:700px;
+    margin:40px auto;
+}
+
+.form-admin h2{
+    margin-bottom:20px;
+}
+
+.login{
+    max-width:450px;
+    margin:60px auto;
+    background: #102746;
+    padding:30px;
+    border-radius:15px;
+}
+
+.login h2{
+    margin-bottom:25px;
+    text-align:center;
+}
+
+.save{
+    background: #FFD700;
+    padding:14px;
+    width:100%;
+    border:none;
+    border-radius:8px;
+    font-weight:bold;
+}
