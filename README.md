@@ -44,6 +44,10 @@ admin@sonicworld.com
 2.  Configure o arquivo `js/config.js` com a URL e a chave do Supabase.
 3.  Abra o projeto utilizando o Live Server (ou outro servidor local).
 
+## 🔗 Aplicação Web
+
+Link: [SonicWorld-OAT](https://sonicworld-oat.netlify.app/)
+
 ## 👨‍💻 Autor
 
 Desenvolvido por **Bianca Pereira** como projeto acadêmico para a
